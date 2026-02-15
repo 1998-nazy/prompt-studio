@@ -1,0 +1,7 @@
+{
+  "name": "Prompt Studio",
+  "description": "A futuristic, Persian-language AI SaaS dashboard for generating advanced AI prompts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
